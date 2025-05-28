@@ -3,7 +3,7 @@
 
 This repository contains the implementation code for the work:
 
-Mengyan Li, Yanning Jia, Fenzhuo Guo, Haifeng Dong, Sujuan Qin, Fei Gao, Measuring network quantum steerability utilizing artificial neural networks, [arXiv:2502.17084](https://arxiv.org/abs/2502.17084).
+Mengyan Li, Yanning Jia, Fenzhuo Guo, Haifeng Dong, Sujuan Qin, Fei Gao, Measuring network quantum steerability utilizing artificial neural networks, [Phys. Rev. A 111, 052446]([https://arxiv.org/abs/2502.17084](https://doi.org/10.1103/PhysRevA.111.052446)).
 
 ---
 
